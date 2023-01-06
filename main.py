@@ -64,7 +64,7 @@ class RealEstate:
 def main():
     real=RealEstate()
     real.get_data()
-    # real.filling_form()
+    real.filling_form()
 
 if __name__ == '__main__':
     main()
